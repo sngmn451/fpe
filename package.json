@@ -1,5 +1,5 @@
 {
-  "name": "@sngmn451/fpe",
+  "name": "sngmn451-fpe",
   "version": "0.0.1",
   "description": "TypeScript Format-Preserving Encryption",
   "main": "index.ts",
