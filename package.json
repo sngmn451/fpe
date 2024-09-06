@@ -1,0 +1,22 @@
+{
+  "name": "@sngmn451/fpe",
+  "version": "0.0.1",
+  "description": "TypeScript Format-Preserving Encryption",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo $(pwd)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sngmn451/fpe.git"
+  },
+  "keywords": [
+    "fpe"
+  ],
+  "author": "Sittipong HAUS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sngmn451/fpe/issues"
+  },
+  "homepage": "https://github.com/sngmn451/fpe#readme"
+}
